@@ -1,2 +1,2 @@
-# bot_discord_node_js
-Tutorial: Como Crear un Bot para Discord con Node JS
+# Como Crear un Bot para Discord con Node JS 
+Video: https://www.youtube.com/watch?v=HQhIkXr1Qqw 
