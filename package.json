@@ -1,0 +1,14 @@
+{
+  "name": "bot_discord",
+  "version": "1.0.0",
+  "description": "Bot Nube Colectiva",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nube Colectiva",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
